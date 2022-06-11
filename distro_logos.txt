@@ -1,4 +1,4 @@
-AIX, Alpine, Anarchy, Android, Antergos, antiX, AOSC,
+                                AIX, Alpine, Anarchy, Android, Antergos, antiX, AOSC,
                                 Apricity, ArcoLinux, ArchBox, ARCHlabs, ArchStrike,
                                 XFerience, ArchMerge, Arch, Artix, Arya, Bedrock, Bitrig,
                                 BlackArch, BLAG, BlankOn, BlueLight, bonsai, BSD,
